@@ -666,9 +666,9 @@ plt.title(regnamesfull[regnum])
 
 # Nature-style annotations
 
-plt.annotate('a',(50.,320.),xycoords='figure
+plt.annotate('b',(50.,320.),xycoords='figure
 points',fontweight='bold',fontsize='x-large')
-plt.annotate('b',(240.,320.),xycoords='figure
+plt.annotate('c',(240.,320.),xycoords='figure
 points',fontweight='bold',fontsize='x-large')
 
 
